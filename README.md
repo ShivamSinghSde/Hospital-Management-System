@@ -7,23 +7,23 @@ It also connect with MySQL Database to storing or retrieving data.
 There is Four Java Classes: 
 
 1. class Patient -  This is a class that can manage Patient data by following these methods:
-       a. addPatient()
-       b. viewPatient()
+       (a). addPatient()
+       (b). viewPatient()
 
 2. class Doctor - This is a class that can describe the doctor details and their specialization ny following method:
-        a. viewDoctor()
+        (a). viewDoctor()
 
 3. class Appointment - This is a class that can manage appointment by following methods:
-        a. viewAppointment()
-        b. bookAppointment()
+        (a). viewAppointment()
+        (b). bookAppointment()
 
 4. class HospitalManagementSystem - This is a driver or main class that can execute main method to manage hospital data.
 
 Functionalities of Driver Class : 
 
-i.   Register Patient
-ii.  View Patients
-iii. View Doctors
-iv.  Book Appointment
-v.   View Appointment
-vi.  Exit
+1.  Register Patient
+2.  View Patients
+3.  View Doctors
+4.  Book Appointment
+5.  View Appointment
+6.  Exit
