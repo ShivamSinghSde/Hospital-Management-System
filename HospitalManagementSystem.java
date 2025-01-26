@@ -1,7 +1,5 @@
 package HospitalManagementSystem;
 
-import com.sun.source.tree.BreakTree;
-
 import java.sql.*;
 import java.util.Scanner;
 
